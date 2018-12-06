@@ -2,3 +2,5 @@
 IDM Grad Creative Coding Fall 2018
 
 In-class example code
+
+Hello class!!!
